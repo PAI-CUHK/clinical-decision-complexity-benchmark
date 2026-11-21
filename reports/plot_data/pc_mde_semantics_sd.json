@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "figure": "pc_mde_semantics_sd",
+  "data": {
+    "model_ci": [
+      {
+        "model": "gpt_gpt-5.6-sol-ca",
+        "condition": "Clinical",
+        "n": 100,
+        "mean_sd": 0.624168051122983,
+        "ci_lower": 0.6204591942458771,
+        "ci_upper": 0.6277948489683426
+      },
+      {
+        "model": "gpt_gpt-5.6-sol-ca",
+        "condition": "Symbolic",
+        "n": 100,
+        "mean_sd": 0.6236063608414285,
+        "ci_lower": 0.620111694773869,
+        "ci_upper": 0.6270854439724294
+      },
+      {
+        "model": "gpt_claude-sonnet-5",
+        "condition": "Clinical",
+        "n": 88,
+        "mean_sd": 0.6059591219436798,
+        "ci_lower": 0.5954527748711158,
+        "ci_upper": 0.6151250219393075
+      },
+      {
+        "model": "gpt_claude-sonnet-5",
+        "condition": "Symbolic",
+        "n": 67,
+        "mean_sd": 0.5729406672762947,
+        "ci_lower": 0.5577494865373789,
+        "ci_upper": 0.5865575763650173
+      },
+      {
+        "model": "vllm_deepseek_v4_flash",
+        "condition": "Clinical",
+        "n": 79,
+        "mean_sd": 0.6316512640700157,
+        "ci_lower": 0.6267862949766905,
+        "ci_upper": 0.6362241193528272
+      },
+      {
+        "model": "vllm_deepseek_v4_flash",
+        "condition": "Symbolic",
+        "n": 94,
+        "mean_sd": 0.6372763109164773,
+        "ci_lower": 0.6328218677139223,
+        "ci_upper": 0.6413859656170334
+      },
+      {
+        "model": "gpt_qwen3.5-397b-a17b",
+        "condition": "Clinical",
+        "n": 100,
+        "mean_sd": 0.6308020503844258,
+        "ci_lower": 0.6265932971230965,
+        "ci_upper": 0.6349050106181912
+      },
+      {
+        "model": "gpt_qwen3.5-397b-a17b",
+        "condition": "Symbolic",
+        "n": 100,
+        "mean_sd": 0.6166685037063647,
+        "ci_lower": 0.6110731718928696,
+        "ci_upper": 0.6218474186582844
+      },
+      {
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "condition": "Clinical",
+        "n": 89,
+        "mean_sd": 0.5844715586961702,
+        "ci_lower": 0.5702744570437727,
+        "ci_upper": 0.5971710082646721
+      },
+      {
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "condition": "Symbolic",
+        "n": 97,
+        "mean_sd": 0.5596934613751686,
+        "ci_lower": 0.5417542053038319,
+        "ci_upper": 0.5760112881810756
+      },
+      {
+        "model": "vllm_Qwen3_8_27B",
+        "condition": "Clinical",
+        "n": 25,
+        "mean_sd": 0.6228279195190556,
+        "ci_lower": 0.6159307850949794,
+        "ci_upper": 0.6289068649162056
+      },
+      {
+        "model": "vllm_Qwen3_8_27B",
+        "condition": "Symbolic",
+        "n": 31,
+        "mean_sd": 0.6210669547251256,
+        "ci_lower": 0.6143980235476797,
+        "ci_upper": 0.6272694711440099
+      },
+      {
+        "model": "vllm_Mistral_4",
+        "condition": "Clinical",
+        "n": 80,
+        "mean_sd": 0.5979697540816323,
+        "ci_lower": 0.588186195859682,
+        "ci_upper": 0.6068080566201439
+      },
+      {
+        "model": "vllm_Mistral_4",
+        "condition": "Symbolic",
+        "n": 95,
+        "mean_sd": 0.562636854907372,
+        "ci_lower": 0.5475950481774052,
+        "ci_upper": 0.5764559630349982
+      },
+      {
+        "model": "vllm_gpt_oss_120b",
+        "condition": "Clinical",
+        "n": 92,
+        "mean_sd": 0.6029060500398338,
+        "ci_lower": 0.5937159169186343,
+        "ci_upper": 0.6110521046564938
+      },
+      {
+        "model": "vllm_gpt_oss_120b",
+        "condition": "Symbolic",
+        "n": 99,
+        "mean_sd": 0.6062930651286392,
+        "ci_lower": 0.5912642341316815,
+        "ci_upper": 0.6173127851894131
+      }
+    ],
+    "levels": [
+      {
+        "level": 1,
+        "condition": "Clinical",
+        "mean_sd": 0.6161999909936995
+      },
+      {
+        "level": 1,
+        "condition": "Symbolic",
+        "mean_sd": 0.6063112822134795
+      },
+      {
+        "level": 2,
+        "condition": "Clinical",
+        "mean_sd": 0.6145062371050711
+      },
+      {
+        "level": 2,
+        "condition": "Symbolic",
+        "mean_sd": 0.5937074421134204
+      },
+      {
+        "level": 3,
+        "condition": "Clinical",
+        "mean_sd": 0.6053974833897814
+      },
+      {
+        "level": 3,
+        "condition": "Symbolic",
+        "mean_sd": 0.6012411765759085
+      },
+      {
+        "level": 4,
+        "condition": "Clinical",
+        "mean_sd": 0.6180886536531457
+      },
+      {
+        "level": 4,
+        "condition": "Symbolic",
+        "mean_sd": 0.6112713071882323
+      },
+      {
+        "level": 5,
+        "condition": "Clinical",
+        "mean_sd": 0.6026910748333068
+      },
+      {
+        "level": 5,
+        "condition": "Symbolic",
+        "mean_sd": 0.5992445195574114
+      },
+      {
+        "level": 6,
+        "condition": "Clinical",
+        "mean_sd": 0.6150628881674043
+      },
+      {
+        "level": 6,
+        "condition": "Symbolic",
+        "mean_sd": 0.6070202092414406
+      },
+      {
+        "level": 7,
+        "condition": "Clinical",
+        "mean_sd": 0.6098164794880296
+      },
+      {
+        "level": 7,
+        "condition": "Symbolic",
+        "mean_sd": 0.5823738240570133
+      },
+      {
+        "level": 8,
+        "condition": "Clinical",
+        "mean_sd": 0.6230422409041599
+      },
+      {
+        "level": 8,
+        "condition": "Symbolic",
+        "mean_sd": 0.6031354992349778
+      },
+      {
+        "level": 9,
+        "condition": "Clinical",
+        "mean_sd": 0.606400926834935
+      },
+      {
+        "level": 9,
+        "condition": "Symbolic",
+        "mean_sd": 0.5982199623370202
+      },
+      {
+        "level": 10,
+        "condition": "Clinical",
+        "mean_sd": 0.6073267980341794
+      },
+      {
+        "level": 10,
+        "condition": "Symbolic",
+        "mean_sd": 0.5900994888252125
+      }
+    ]
+  }
+}

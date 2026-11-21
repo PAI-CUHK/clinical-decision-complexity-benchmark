@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "figure": "error_composition",
+  "data": {
+    "models": {
+      "gpt_claude-sonnet-5": {
+        "P": {
+          "errors": {
+            "TE": 9,
+            "Unclassified": 109
+          },
+          "total": 300
+        },
+        "NP-complete": {
+          "errors": {
+            "TE": 78,
+            "Unclassified": 112
+          },
+          "total": 300
+        },
+        "NP-hard": {
+          "errors": {
+            "OE": 156,
+            "TE": 87,
+            "Unclassified": 0,
+            "HE": 1,
+            "HV": 44
+          },
+          "total": 300
+        }
+      },
+      "gpt_gpt-5.6-sol-ca": {
+        "P": {
+          "errors": {
+            "Unclassified": 44
+          },
+          "total": 300
+        },
+        "NP-complete": {
+          "errors": {
+            "Unclassified": 135,
+            "TE": 6
+          },
+          "total": 300
+        },
+        "NP-hard": {
+          "errors": {
+            "OE": 185,
+            "Unclassified": 0,
+            "TE": 5,
+            "HV": 61
+          },
+          "total": 300
+        }
+      },
+      "gpt_qwen3.5-397b-a17b": {
+        "P": {
+          "errors": {
+            "Unclassified": 85,
+            "HE": 1
+          },
+          "total": 300
+        },
+        "NP-complete": {
+          "errors": {
+            "Unclassified": 154,
+            "OF": 2
+          },
+          "total": 300
+        },
+        "NP-hard": {
+          "errors": {
+            "OE": 256,
+            "Unclassified": 0,
+            "HE": 9,
+            "HV": 25
+          },
+          "total": 300
+        }
+      },
+      "vllm_Mistral_4": {
+        "P": {
+          "errors": {
+            "Unclassified": 214,
+            "HE": 7
+          },
+          "total": 300
+        },
+        "NP-complete": {
+          "errors": {
+            "Unclassified": 160
+          },
+          "total": 300
+        },
+        "NP-hard": {
+          "errors": {
+            "OE": 173,
+            "HE": 50,
+            "Unclassified": 1,
+            "HV": 73
+          },
+          "total": 300
+        }
+      },
+      "vllm_Qwen3_6_35B_A3B": {
+        "P": {
+          "errors": {
+            "Unclassified": 106,
+            "TE": 89,
+            "OF": 6
+          },
+          "total": 300
+        },
+        "NP-complete": {
+          "errors": {
+            "TE": 25,
+            "Unclassified": 135
+          },
+          "total": 300
+        },
+        "NP-hard": {
+          "errors": {
+            "OE": 212,
+            "TE": 21,
+            "HE": 11,
+            "Unclassified": 0,
+            "OF": 4,
+            "HV": 40
+          },
+          "total": 300
+        }
+      },
+      "vllm_Qwen3_8_27B": {
+        "P": {
+          "errors": {
+            "Unclassified": 37,
+            "OF": 32,
+            "TE": 9
+          },
+          "total": 300
+        },
+        "NP-complete": {
+          "errors": {
+            "TE": 135,
+            "OF": 6,
+            "Unclassified": 39
+          },
+          "total": 300
+        },
+        "NP-hard": {
+          "errors": {
+            "OE": 107,
+            "TE": 161,
+            "Unclassified": 0,
+            "OF": 1,
+            "HV": 8
+          },
+          "total": 300
+        }
+      },
+      "vllm_deepseek_v4_flash": {
+        "P": {
+          "errors": {
+            "Unclassified": 43,
+            "TE": 82,
+            "HE": 1,
+            "OF": 3
+          },
+          "total": 300
+        },
+        "NP-complete": {
+          "errors": {
+            "OF": 1,
+            "TE": 33,
+            "Unclassified": 110
+          },
+          "total": 300
+        },
+        "NP-hard": {
+          "errors": {
+            "OE": 186,
+            "TE": 77,
+            "Unclassified": 0,
+            "HE": 1,
+            "OF": 1,
+            "HV": 2
+          },
+          "total": 300
+        }
+      },
+      "vllm_gpt_oss_120b": {
+        "P": {
+          "errors": {
+            "TE": 48,
+            "Unclassified": 32
+          },
+          "total": 300
+        },
+        "NP-complete": {
+          "errors": {
+            "TE": 48,
+            "Unclassified": 128
+          },
+          "total": 300
+        },
+        "NP-hard": {
+          "errors": {
+            "HE": 6,
+            "OE": 178,
+            "OF": 4,
+            "TE": 85,
+            "Unclassified": 0,
+            "HV": 19
+          },
+          "total": 300
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1496 @@
+{
+  "schema_version": 1,
+  "figure": "medical_semantics_wa",
+  "data": {
+    "summary": [
+      {
+        "scope": "overall",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 34.535353535353536
+      },
+      {
+        "scope": "overall",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 37.843434343434346
+      },
+      {
+        "scope": "model",
+        "condition": "Medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 49.45454545454545
+      },
+      {
+        "scope": "model",
+        "condition": "Medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 29.939393939393938
+      },
+      {
+        "scope": "model",
+        "condition": "Medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 36.72727272727273
+      },
+      {
+        "scope": "model",
+        "condition": "Medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 38.949494949494955
+      },
+      {
+        "scope": "model",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 23.717171717171716
+      },
+      {
+        "scope": "model",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 36.747474747474755
+      },
+      {
+        "scope": "model",
+        "condition": "Medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 24.464646464646467
+      },
+      {
+        "scope": "model",
+        "condition": "Medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 36.282828282828284
+      },
+      {
+        "scope": "model",
+        "condition": "No medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 52.94949494949495
+      },
+      {
+        "scope": "model",
+        "condition": "No medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 33.27272727272727
+      },
+      {
+        "scope": "model",
+        "condition": "No medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 38.52525252525253
+      },
+      {
+        "scope": "model",
+        "condition": "No medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 40.30303030303031
+      },
+      {
+        "scope": "model",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 27.818181818181817
+      },
+      {
+        "scope": "model",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 41.05050505050505
+      },
+      {
+        "scope": "model",
+        "condition": "No medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 28.949494949494948
+      },
+      {
+        "scope": "model",
+        "condition": "No medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "",
+        "wa_percent": 39.87878787878788
+      },
+      {
+        "scope": "complexity",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "P",
+        "problem": "",
+        "wa_percent": 55.17424242424243
+      },
+      {
+        "scope": "complexity",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "NP-complete",
+        "problem": "",
+        "wa_percent": 44.984848484848484
+      },
+      {
+        "scope": "complexity",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "NP-hard",
+        "problem": "",
+        "wa_percent": 3.446969696969697
+      },
+      {
+        "scope": "complexity",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "P",
+        "problem": "",
+        "wa_percent": 62.54545454545455
+      },
+      {
+        "scope": "complexity",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "NP-complete",
+        "problem": "",
+        "wa_percent": 47.29545454545455
+      },
+      {
+        "scope": "complexity",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "NP-hard",
+        "problem": "",
+        "wa_percent": 3.68939393939394
+      },
+      {
+        "scope": "problem",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.5227272727272727
+      },
+      {
+        "scope": "problem",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 40.81818181818182
+      },
+      {
+        "scope": "problem",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 72.40909090909092
+      },
+      {
+        "scope": "problem",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 39.97727272727273
+      },
+      {
+        "scope": "problem",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 53.13636363636363
+      },
+      {
+        "scope": "problem",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 49.34090909090909
+      },
+      {
+        "scope": "problem",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 5.795454545454546
+      },
+      {
+        "scope": "problem",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 44.79545454545455
+      },
+      {
+        "scope": "problem",
+        "condition": "Medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 4.0227272727272725
+      },
+      {
+        "scope": "problem",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 1.1818181818181819
+      },
+      {
+        "scope": "problem",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 41.61363636363637
+      },
+      {
+        "scope": "problem",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 80.70454545454545
+      },
+      {
+        "scope": "problem",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 44.63636363636363
+      },
+      {
+        "scope": "problem",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 62.295454545454554
+      },
+      {
+        "scope": "problem",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 50.09090909090909
+      },
+      {
+        "scope": "problem",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 5.818181818181818
+      },
+      {
+        "scope": "problem",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 50.18181818181818
+      },
+      {
+        "scope": "problem",
+        "condition": "No medical semantics",
+        "model": "",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 4.0681818181818175
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.7272727272727273
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 48.36363636363637
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 98.18181818181819
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 76.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 77.81818181818181
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 67.45454545454545
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 24.545454545454547
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 46.36363636363637
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 5.636363636363637
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.18181818181818182
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 18.363636363636363
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 54.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 38.18181818181818
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 66.18181818181819
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 40.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 1.6363636363636365
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 48.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 2.909090909090909
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 2.727272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 48.90909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 89.45454545454545
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 53.09090909090909
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 14.909090909090907
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 64.90909090909092
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 8.545454545454545
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 37.27272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 10.727272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.5454545454545454
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 51.45454545454545
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 72.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 56.54545454545455
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 68.9090909090909
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 40.36363636363637
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 2.1818181818181817
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 55.63636363636363
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 2.909090909090909
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 46.72727272727273
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 26.727272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 1.090909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 46.72727272727273
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 42.18181818181818
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 2.727272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 44.54545454545455
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 2.727272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 17.81818181818182
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 91.27272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 53.09090909090909
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 65.09090909090908
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 54.36363636363637
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 4.363636363636364
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 38.18181818181818
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 6.545454545454546
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 51.09090909090909
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 64.54545454545455
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 1.090909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 5.2727272727272725
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 44.36363636363637
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 1.090909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 52.72727272727273
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 43.81818181818182
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 83.0909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 40.72727272727273
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 80.18181818181819
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 41.09090909090909
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 1.2727272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 35.63636363636364
+      },
+      {
+        "scope": "model_problem",
+        "condition": "Medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 0.7272727272727273
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 44.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 94.54545454545455
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 82.36363636363636
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 96.72727272727273
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 67.81818181818181
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 26.545454545454547
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 59.636363636363626
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_gpt-5.6-sol-ca",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 4.909090909090909
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 12.545454545454545
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 50.18181818181818
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 57.81818181818182
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 73.63636363636364
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 38.90909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 4.181818181818182
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 58.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_claude-sonnet-5",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 4.181818181818182
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 9.272727272727272
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 43.63636363636363
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 94.36363636363636
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 60.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 13.272727272727273
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 64.90909090909092
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 6.181818181818182
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 48.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_deepseek_v4_flash",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 7.090909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.18181818181818182
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 51.45454545454545
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 76.9090909090909
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 68.36363636363636
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 70.54545454545455
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 40.36363636363637
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 4.000000000000001
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 50.90909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "gpt_qwen3.5-397b-a17b",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 46.18181818181818
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 60.54545454545454
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 1.8181818181818181
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 55.27272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 40.90909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 0.36363636363636365
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 41.63636363636363
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_6_35B_A3B",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 3.6363636363636362
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 28.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 95.0909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 47.09090909090909
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 88.36363636363636
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 65.27272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 1.6363636363636365
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 34.727272727272734
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Qwen3_8_27B",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 9.272727272727272
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 54.36363636363637
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 79.63636363636364
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 3.6363636363636362
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 18.90909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 42.18181818181818
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 1.2727272727272727
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 59.636363636363626
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_Mistral_4",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 0.9090909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "Disease_Diagnosis",
+        "wa_percent": 0.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "Disease_Diagnosis_NP-complete",
+        "wa_percent": 52.72727272727273
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "ECG_Pattern_Detection",
+        "wa_percent": 94.36363636363636
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "ED_Scheduling",
+        "wa_percent": 36.0
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "Medical_Risk",
+        "wa_percent": 81.63636363636364
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "Nurse_Scheduling",
+        "wa_percent": 40.36363636363637
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "OR_Scheduling",
+        "wa_percent": 2.3636363636363638
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "OR_Scheduling_NP-complete",
+        "wa_percent": 48.90909090909091
+      },
+      {
+        "scope": "model_problem",
+        "condition": "No medical semantics",
+        "model": "vllm_gpt_oss_120b",
+        "complexity": "",
+        "problem": "PASP",
+        "wa_percent": 2.5454545454545454
+      }
+    ]
+  }
+}

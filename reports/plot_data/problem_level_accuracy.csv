@@ -1,0 +1,721 @@
+problem,model,level,correct,total
+RR-IAPD,gpt_gpt-5.6-sol-ca,1,10,10
+RR-IAPD,gpt_gpt-5.6-sol-ca,2,10,10
+RR-IAPD,gpt_gpt-5.6-sol-ca,3,9,10
+RR-IAPD,gpt_gpt-5.6-sol-ca,4,10,10
+RR-IAPD,gpt_gpt-5.6-sol-ca,5,10,10
+RR-IAPD,gpt_gpt-5.6-sol-ca,6,10,10
+RR-IAPD,gpt_gpt-5.6-sol-ca,7,9,10
+RR-IAPD,gpt_gpt-5.6-sol-ca,8,10,10
+RR-IAPD,gpt_gpt-5.6-sol-ca,9,10,10
+RR-IAPD,gpt_gpt-5.6-sol-ca,10,10,10
+RR-IAPD,gpt_claude-sonnet-5,1,9,10
+RR-IAPD,gpt_claude-sonnet-5,2,8,10
+RR-IAPD,gpt_claude-sonnet-5,3,10,10
+RR-IAPD,gpt_claude-sonnet-5,4,8,10
+RR-IAPD,gpt_claude-sonnet-5,5,9,10
+RR-IAPD,gpt_claude-sonnet-5,6,6,10
+RR-IAPD,gpt_claude-sonnet-5,7,7,10
+RR-IAPD,gpt_claude-sonnet-5,8,5,10
+RR-IAPD,gpt_claude-sonnet-5,9,0,10
+RR-IAPD,gpt_claude-sonnet-5,10,4,10
+RR-IAPD,vllm_deepseek_v4_flash,1,8,10
+RR-IAPD,vllm_deepseek_v4_flash,2,10,10
+RR-IAPD,vllm_deepseek_v4_flash,3,10,10
+RR-IAPD,vllm_deepseek_v4_flash,4,10,10
+RR-IAPD,vllm_deepseek_v4_flash,5,7,10
+RR-IAPD,vllm_deepseek_v4_flash,6,9,10
+RR-IAPD,vllm_deepseek_v4_flash,7,9,10
+RR-IAPD,vllm_deepseek_v4_flash,8,10,10
+RR-IAPD,vllm_deepseek_v4_flash,9,8,10
+RR-IAPD,vllm_deepseek_v4_flash,10,9,10
+RR-IAPD,gpt_qwen3.5-397b-a17b,1,10,10
+RR-IAPD,gpt_qwen3.5-397b-a17b,2,9,10
+RR-IAPD,gpt_qwen3.5-397b-a17b,3,8,10
+RR-IAPD,gpt_qwen3.5-397b-a17b,4,10,10
+RR-IAPD,gpt_qwen3.5-397b-a17b,5,6,10
+RR-IAPD,gpt_qwen3.5-397b-a17b,6,8,10
+RR-IAPD,gpt_qwen3.5-397b-a17b,7,7,10
+RR-IAPD,gpt_qwen3.5-397b-a17b,8,8,10
+RR-IAPD,gpt_qwen3.5-397b-a17b,9,7,10
+RR-IAPD,gpt_qwen3.5-397b-a17b,10,5,10
+RR-IAPD,vllm_Qwen3_6_35B_A3B,1,9,10
+RR-IAPD,vllm_Qwen3_6_35B_A3B,2,8,10
+RR-IAPD,vllm_Qwen3_6_35B_A3B,3,5,10
+RR-IAPD,vllm_Qwen3_6_35B_A3B,4,4,10
+RR-IAPD,vllm_Qwen3_6_35B_A3B,5,5,10
+RR-IAPD,vllm_Qwen3_6_35B_A3B,6,4,10
+RR-IAPD,vllm_Qwen3_6_35B_A3B,7,1,10
+RR-IAPD,vllm_Qwen3_6_35B_A3B,8,2,10
+RR-IAPD,vllm_Qwen3_6_35B_A3B,9,1,10
+RR-IAPD,vllm_Qwen3_6_35B_A3B,10,1,10
+RR-IAPD,vllm_Qwen3_8_27B,1,9,10
+RR-IAPD,vllm_Qwen3_8_27B,2,9,10
+RR-IAPD,vllm_Qwen3_8_27B,3,10,10
+RR-IAPD,vllm_Qwen3_8_27B,4,10,10
+RR-IAPD,vllm_Qwen3_8_27B,5,10,10
+RR-IAPD,vllm_Qwen3_8_27B,6,10,10
+RR-IAPD,vllm_Qwen3_8_27B,7,9,10
+RR-IAPD,vllm_Qwen3_8_27B,8,10,10
+RR-IAPD,vllm_Qwen3_8_27B,9,8,10
+RR-IAPD,vllm_Qwen3_8_27B,10,8,10
+RR-IAPD,vllm_Mistral_4,1,8,10
+RR-IAPD,vllm_Mistral_4,2,10,10
+RR-IAPD,vllm_Mistral_4,3,6,10
+RR-IAPD,vllm_Mistral_4,4,7,10
+RR-IAPD,vllm_Mistral_4,5,7,10
+RR-IAPD,vllm_Mistral_4,6,7,10
+RR-IAPD,vllm_Mistral_4,7,6,10
+RR-IAPD,vllm_Mistral_4,8,6,10
+RR-IAPD,vllm_Mistral_4,9,6,10
+RR-IAPD,vllm_Mistral_4,10,6,10
+RR-IAPD,vllm_gpt_oss_120b,1,10,10
+RR-IAPD,vllm_gpt_oss_120b,2,9,10
+RR-IAPD,vllm_gpt_oss_120b,3,9,10
+RR-IAPD,vllm_gpt_oss_120b,4,9,10
+RR-IAPD,vllm_gpt_oss_120b,5,8,10
+RR-IAPD,vllm_gpt_oss_120b,6,8,10
+RR-IAPD,vllm_gpt_oss_120b,7,9,10
+RR-IAPD,vllm_gpt_oss_120b,8,8,10
+RR-IAPD,vllm_gpt_oss_120b,9,9,10
+RR-IAPD,vllm_gpt_oss_120b,10,7,10
+ED-TQM,gpt_gpt-5.6-sol-ca,1,8,10
+ED-TQM,gpt_gpt-5.6-sol-ca,2,7,10
+ED-TQM,gpt_gpt-5.6-sol-ca,3,9,10
+ED-TQM,gpt_gpt-5.6-sol-ca,4,8,10
+ED-TQM,gpt_gpt-5.6-sol-ca,5,6,10
+ED-TQM,gpt_gpt-5.6-sol-ca,6,8,10
+ED-TQM,gpt_gpt-5.6-sol-ca,7,5,10
+ED-TQM,gpt_gpt-5.6-sol-ca,8,10,10
+ED-TQM,gpt_gpt-5.6-sol-ca,9,6,10
+ED-TQM,gpt_gpt-5.6-sol-ca,10,9,10
+ED-TQM,gpt_claude-sonnet-5,1,3,10
+ED-TQM,gpt_claude-sonnet-5,2,7,10
+ED-TQM,gpt_claude-sonnet-5,3,6,10
+ED-TQM,gpt_claude-sonnet-5,4,8,10
+ED-TQM,gpt_claude-sonnet-5,5,8,10
+ED-TQM,gpt_claude-sonnet-5,6,3,10
+ED-TQM,gpt_claude-sonnet-5,7,7,10
+ED-TQM,gpt_claude-sonnet-5,8,1,10
+ED-TQM,gpt_claude-sonnet-5,9,2,10
+ED-TQM,gpt_claude-sonnet-5,10,1,10
+ED-TQM,vllm_deepseek_v4_flash,1,8,10
+ED-TQM,vllm_deepseek_v4_flash,2,5,10
+ED-TQM,vllm_deepseek_v4_flash,3,4,10
+ED-TQM,vllm_deepseek_v4_flash,4,9,10
+ED-TQM,vllm_deepseek_v4_flash,5,7,10
+ED-TQM,vllm_deepseek_v4_flash,6,5,10
+ED-TQM,vllm_deepseek_v4_flash,7,8,10
+ED-TQM,vllm_deepseek_v4_flash,8,5,10
+ED-TQM,vllm_deepseek_v4_flash,9,5,10
+ED-TQM,vllm_deepseek_v4_flash,10,2,10
+ED-TQM,gpt_qwen3.5-397b-a17b,1,9,10
+ED-TQM,gpt_qwen3.5-397b-a17b,2,7,10
+ED-TQM,gpt_qwen3.5-397b-a17b,3,7,10
+ED-TQM,gpt_qwen3.5-397b-a17b,4,8,10
+ED-TQM,gpt_qwen3.5-397b-a17b,5,6,10
+ED-TQM,gpt_qwen3.5-397b-a17b,6,7,10
+ED-TQM,gpt_qwen3.5-397b-a17b,7,4,10
+ED-TQM,gpt_qwen3.5-397b-a17b,8,5,10
+ED-TQM,gpt_qwen3.5-397b-a17b,9,5,10
+ED-TQM,gpt_qwen3.5-397b-a17b,10,5,10
+ED-TQM,vllm_Qwen3_6_35B_A3B,1,0,10
+ED-TQM,vllm_Qwen3_6_35B_A3B,2,1,10
+ED-TQM,vllm_Qwen3_6_35B_A3B,3,0,10
+ED-TQM,vllm_Qwen3_6_35B_A3B,4,1,10
+ED-TQM,vllm_Qwen3_6_35B_A3B,5,0,10
+ED-TQM,vllm_Qwen3_6_35B_A3B,6,0,10
+ED-TQM,vllm_Qwen3_6_35B_A3B,7,0,10
+ED-TQM,vllm_Qwen3_6_35B_A3B,8,0,10
+ED-TQM,vllm_Qwen3_6_35B_A3B,9,0,10
+ED-TQM,vllm_Qwen3_6_35B_A3B,10,0,10
+ED-TQM,vllm_Qwen3_8_27B,1,5,10
+ED-TQM,vllm_Qwen3_8_27B,2,9,10
+ED-TQM,vllm_Qwen3_8_27B,3,8,10
+ED-TQM,vllm_Qwen3_8_27B,4,3,10
+ED-TQM,vllm_Qwen3_8_27B,5,7,10
+ED-TQM,vllm_Qwen3_8_27B,6,5,10
+ED-TQM,vllm_Qwen3_8_27B,7,6,10
+ED-TQM,vllm_Qwen3_8_27B,8,4,10
+ED-TQM,vllm_Qwen3_8_27B,9,6,10
+ED-TQM,vllm_Qwen3_8_27B,10,4,10
+ED-TQM,vllm_Mistral_4,1,0,10
+ED-TQM,vllm_Mistral_4,2,1,10
+ED-TQM,vllm_Mistral_4,3,0,10
+ED-TQM,vllm_Mistral_4,4,1,10
+ED-TQM,vllm_Mistral_4,5,0,10
+ED-TQM,vllm_Mistral_4,6,0,10
+ED-TQM,vllm_Mistral_4,7,0,10
+ED-TQM,vllm_Mistral_4,8,0,10
+ED-TQM,vllm_Mistral_4,9,0,10
+ED-TQM,vllm_Mistral_4,10,0,10
+ED-TQM,vllm_gpt_oss_120b,1,9,10
+ED-TQM,vllm_gpt_oss_120b,2,7,10
+ED-TQM,vllm_gpt_oss_120b,3,7,10
+ED-TQM,vllm_gpt_oss_120b,4,7,10
+ED-TQM,vllm_gpt_oss_120b,5,5,10
+ED-TQM,vllm_gpt_oss_120b,6,5,10
+ED-TQM,vllm_gpt_oss_120b,7,5,10
+ED-TQM,vllm_gpt_oss_120b,8,3,10
+ED-TQM,vllm_gpt_oss_120b,9,2,10
+ED-TQM,vllm_gpt_oss_120b,10,2,10
+ECD-RS,gpt_gpt-5.6-sol-ca,1,10,10
+ECD-RS,gpt_gpt-5.6-sol-ca,2,9,10
+ECD-RS,gpt_gpt-5.6-sol-ca,3,10,10
+ECD-RS,gpt_gpt-5.6-sol-ca,4,7,10
+ECD-RS,gpt_gpt-5.6-sol-ca,5,9,10
+ECD-RS,gpt_gpt-5.6-sol-ca,6,7,10
+ECD-RS,gpt_gpt-5.6-sol-ca,7,7,10
+ECD-RS,gpt_gpt-5.6-sol-ca,8,8,10
+ECD-RS,gpt_gpt-5.6-sol-ca,9,8,10
+ECD-RS,gpt_gpt-5.6-sol-ca,10,7,10
+ECD-RS,gpt_claude-sonnet-5,1,7,10
+ECD-RS,gpt_claude-sonnet-5,2,7,10
+ECD-RS,gpt_claude-sonnet-5,3,10,10
+ECD-RS,gpt_claude-sonnet-5,4,8,10
+ECD-RS,gpt_claude-sonnet-5,5,7,10
+ECD-RS,gpt_claude-sonnet-5,6,6,10
+ECD-RS,gpt_claude-sonnet-5,7,8,10
+ECD-RS,gpt_claude-sonnet-5,8,5,10
+ECD-RS,gpt_claude-sonnet-5,9,6,10
+ECD-RS,gpt_claude-sonnet-5,10,6,10
+ECD-RS,vllm_deepseek_v4_flash,1,4,10
+ECD-RS,vllm_deepseek_v4_flash,2,4,10
+ECD-RS,vllm_deepseek_v4_flash,3,2,10
+ECD-RS,vllm_deepseek_v4_flash,4,6,10
+ECD-RS,vllm_deepseek_v4_flash,5,4,10
+ECD-RS,vllm_deepseek_v4_flash,6,1,10
+ECD-RS,vllm_deepseek_v4_flash,7,2,10
+ECD-RS,vllm_deepseek_v4_flash,8,0,10
+ECD-RS,vllm_deepseek_v4_flash,9,0,10
+ECD-RS,vllm_deepseek_v4_flash,10,0,10
+ECD-RS,gpt_qwen3.5-397b-a17b,1,8,10
+ECD-RS,gpt_qwen3.5-397b-a17b,2,9,10
+ECD-RS,gpt_qwen3.5-397b-a17b,3,10,10
+ECD-RS,gpt_qwen3.5-397b-a17b,4,7,10
+ECD-RS,gpt_qwen3.5-397b-a17b,5,5,10
+ECD-RS,gpt_qwen3.5-397b-a17b,6,6,10
+ECD-RS,gpt_qwen3.5-397b-a17b,7,8,10
+ECD-RS,gpt_qwen3.5-397b-a17b,8,8,10
+ECD-RS,gpt_qwen3.5-397b-a17b,9,6,10
+ECD-RS,gpt_qwen3.5-397b-a17b,10,6,10
+ECD-RS,vllm_Qwen3_6_35B_A3B,1,10,10
+ECD-RS,vllm_Qwen3_6_35B_A3B,2,6,10
+ECD-RS,vllm_Qwen3_6_35B_A3B,3,9,10
+ECD-RS,vllm_Qwen3_6_35B_A3B,4,5,10
+ECD-RS,vllm_Qwen3_6_35B_A3B,5,7,10
+ECD-RS,vllm_Qwen3_6_35B_A3B,6,5,10
+ECD-RS,vllm_Qwen3_6_35B_A3B,7,5,10
+ECD-RS,vllm_Qwen3_6_35B_A3B,8,4,10
+ECD-RS,vllm_Qwen3_6_35B_A3B,9,4,10
+ECD-RS,vllm_Qwen3_6_35B_A3B,10,2,10
+ECD-RS,vllm_Qwen3_8_27B,1,9,10
+ECD-RS,vllm_Qwen3_8_27B,2,9,10
+ECD-RS,vllm_Qwen3_8_27B,3,8,10
+ECD-RS,vllm_Qwen3_8_27B,4,8,10
+ECD-RS,vllm_Qwen3_8_27B,5,8,10
+ECD-RS,vllm_Qwen3_8_27B,6,7,10
+ECD-RS,vllm_Qwen3_8_27B,7,5,10
+ECD-RS,vllm_Qwen3_8_27B,8,7,10
+ECD-RS,vllm_Qwen3_8_27B,9,8,10
+ECD-RS,vllm_Qwen3_8_27B,10,3,10
+ECD-RS,vllm_Mistral_4,1,3,10
+ECD-RS,vllm_Mistral_4,2,0,10
+ECD-RS,vllm_Mistral_4,3,1,10
+ECD-RS,vllm_Mistral_4,4,1,10
+ECD-RS,vllm_Mistral_4,5,1,10
+ECD-RS,vllm_Mistral_4,6,0,10
+ECD-RS,vllm_Mistral_4,7,2,10
+ECD-RS,vllm_Mistral_4,8,0,10
+ECD-RS,vllm_Mistral_4,9,0,10
+ECD-RS,vllm_Mistral_4,10,0,10
+ECD-RS,vllm_gpt_oss_120b,1,10,10
+ECD-RS,vllm_gpt_oss_120b,2,8,10
+ECD-RS,vllm_gpt_oss_120b,3,6,10
+ECD-RS,vllm_gpt_oss_120b,4,9,10
+ECD-RS,vllm_gpt_oss_120b,5,9,10
+ECD-RS,vllm_gpt_oss_120b,6,8,10
+ECD-RS,vllm_gpt_oss_120b,7,9,10
+ECD-RS,vllm_gpt_oss_120b,8,9,10
+ECD-RS,vllm_gpt_oss_120b,9,7,10
+ECD-RS,vllm_gpt_oss_120b,10,7,10
+PC-MDE (D),gpt_gpt-5.6-sol-ca,1,3,10
+PC-MDE (D),gpt_gpt-5.6-sol-ca,2,7,10
+PC-MDE (D),gpt_gpt-5.6-sol-ca,3,4,10
+PC-MDE (D),gpt_gpt-5.6-sol-ca,4,5,10
+PC-MDE (D),gpt_gpt-5.6-sol-ca,5,3,10
+PC-MDE (D),gpt_gpt-5.6-sol-ca,6,6,10
+PC-MDE (D),gpt_gpt-5.6-sol-ca,7,3,10
+PC-MDE (D),gpt_gpt-5.6-sol-ca,8,4,10
+PC-MDE (D),gpt_gpt-5.6-sol-ca,9,7,10
+PC-MDE (D),gpt_gpt-5.6-sol-ca,10,5,10
+PC-MDE (D),gpt_claude-sonnet-5,1,5,10
+PC-MDE (D),gpt_claude-sonnet-5,2,3,10
+PC-MDE (D),gpt_claude-sonnet-5,3,2,10
+PC-MDE (D),gpt_claude-sonnet-5,4,4,10
+PC-MDE (D),gpt_claude-sonnet-5,5,3,10
+PC-MDE (D),gpt_claude-sonnet-5,6,1,10
+PC-MDE (D),gpt_claude-sonnet-5,7,2,10
+PC-MDE (D),gpt_claude-sonnet-5,8,3,10
+PC-MDE (D),gpt_claude-sonnet-5,9,1,10
+PC-MDE (D),gpt_claude-sonnet-5,10,0,10
+PC-MDE (D),vllm_deepseek_v4_flash,1,3,10
+PC-MDE (D),vllm_deepseek_v4_flash,2,6,10
+PC-MDE (D),vllm_deepseek_v4_flash,3,4,10
+PC-MDE (D),vllm_deepseek_v4_flash,4,5,10
+PC-MDE (D),vllm_deepseek_v4_flash,5,4,10
+PC-MDE (D),vllm_deepseek_v4_flash,6,7,10
+PC-MDE (D),vllm_deepseek_v4_flash,7,6,10
+PC-MDE (D),vllm_deepseek_v4_flash,8,3,10
+PC-MDE (D),vllm_deepseek_v4_flash,9,6,10
+PC-MDE (D),vllm_deepseek_v4_flash,10,4,10
+PC-MDE (D),gpt_qwen3.5-397b-a17b,1,2,10
+PC-MDE (D),gpt_qwen3.5-397b-a17b,2,6,10
+PC-MDE (D),gpt_qwen3.5-397b-a17b,3,5,10
+PC-MDE (D),gpt_qwen3.5-397b-a17b,4,6,10
+PC-MDE (D),gpt_qwen3.5-397b-a17b,5,5,10
+PC-MDE (D),gpt_qwen3.5-397b-a17b,6,5,10
+PC-MDE (D),gpt_qwen3.5-397b-a17b,7,3,10
+PC-MDE (D),gpt_qwen3.5-397b-a17b,8,6,10
+PC-MDE (D),gpt_qwen3.5-397b-a17b,9,4,10
+PC-MDE (D),gpt_qwen3.5-397b-a17b,10,7,10
+PC-MDE (D),vllm_Qwen3_6_35B_A3B,1,9,10
+PC-MDE (D),vllm_Qwen3_6_35B_A3B,2,5,10
+PC-MDE (D),vllm_Qwen3_6_35B_A3B,3,3,10
+PC-MDE (D),vllm_Qwen3_6_35B_A3B,4,3,10
+PC-MDE (D),vllm_Qwen3_6_35B_A3B,5,7,10
+PC-MDE (D),vllm_Qwen3_6_35B_A3B,6,6,10
+PC-MDE (D),vllm_Qwen3_6_35B_A3B,7,8,10
+PC-MDE (D),vllm_Qwen3_6_35B_A3B,8,3,10
+PC-MDE (D),vllm_Qwen3_6_35B_A3B,9,4,10
+PC-MDE (D),vllm_Qwen3_6_35B_A3B,10,3,10
+PC-MDE (D),vllm_Qwen3_8_27B,1,1,10
+PC-MDE (D),vllm_Qwen3_8_27B,2,0,10
+PC-MDE (D),vllm_Qwen3_8_27B,3,2,10
+PC-MDE (D),vllm_Qwen3_8_27B,4,1,10
+PC-MDE (D),vllm_Qwen3_8_27B,5,2,10
+PC-MDE (D),vllm_Qwen3_8_27B,6,2,10
+PC-MDE (D),vllm_Qwen3_8_27B,7,3,10
+PC-MDE (D),vllm_Qwen3_8_27B,8,2,10
+PC-MDE (D),vllm_Qwen3_8_27B,9,2,10
+PC-MDE (D),vllm_Qwen3_8_27B,10,1,10
+PC-MDE (D),vllm_Mistral_4,1,7,10
+PC-MDE (D),vllm_Mistral_4,2,5,10
+PC-MDE (D),vllm_Mistral_4,3,5,10
+PC-MDE (D),vllm_Mistral_4,4,5,10
+PC-MDE (D),vllm_Mistral_4,5,5,10
+PC-MDE (D),vllm_Mistral_4,6,4,10
+PC-MDE (D),vllm_Mistral_4,7,5,10
+PC-MDE (D),vllm_Mistral_4,8,5,10
+PC-MDE (D),vllm_Mistral_4,9,5,10
+PC-MDE (D),vllm_Mistral_4,10,6,10
+PC-MDE (D),vllm_gpt_oss_120b,1,5,10
+PC-MDE (D),vllm_gpt_oss_120b,2,5,10
+PC-MDE (D),vllm_gpt_oss_120b,3,4,10
+PC-MDE (D),vllm_gpt_oss_120b,4,2,10
+PC-MDE (D),vllm_gpt_oss_120b,5,1,10
+PC-MDE (D),vllm_gpt_oss_120b,6,5,10
+PC-MDE (D),vllm_gpt_oss_120b,7,6,10
+PC-MDE (D),vllm_gpt_oss_120b,8,3,10
+PC-MDE (D),vllm_gpt_oss_120b,9,5,10
+PC-MDE (D),vllm_gpt_oss_120b,10,6,10
+SCS (D),gpt_gpt-5.6-sol-ca,1,6,10
+SCS (D),gpt_gpt-5.6-sol-ca,2,3,10
+SCS (D),gpt_gpt-5.6-sol-ca,3,6,10
+SCS (D),gpt_gpt-5.6-sol-ca,4,6,10
+SCS (D),gpt_gpt-5.6-sol-ca,5,3,10
+SCS (D),gpt_gpt-5.6-sol-ca,6,5,10
+SCS (D),gpt_gpt-5.6-sol-ca,7,3,10
+SCS (D),gpt_gpt-5.6-sol-ca,8,5,10
+SCS (D),gpt_gpt-5.6-sol-ca,9,5,10
+SCS (D),gpt_gpt-5.6-sol-ca,10,5,10
+SCS (D),gpt_claude-sonnet-5,1,6,10
+SCS (D),gpt_claude-sonnet-5,2,3,10
+SCS (D),gpt_claude-sonnet-5,3,6,10
+SCS (D),gpt_claude-sonnet-5,4,2,10
+SCS (D),gpt_claude-sonnet-5,5,5,10
+SCS (D),gpt_claude-sonnet-5,6,2,10
+SCS (D),gpt_claude-sonnet-5,7,4,10
+SCS (D),gpt_claude-sonnet-5,8,7,10
+SCS (D),gpt_claude-sonnet-5,9,5,10
+SCS (D),gpt_claude-sonnet-5,10,6,10
+SCS (D),vllm_deepseek_v4_flash,1,8,10
+SCS (D),vllm_deepseek_v4_flash,2,5,10
+SCS (D),vllm_deepseek_v4_flash,3,3,10
+SCS (D),vllm_deepseek_v4_flash,4,6,10
+SCS (D),vllm_deepseek_v4_flash,5,3,10
+SCS (D),vllm_deepseek_v4_flash,6,5,10
+SCS (D),vllm_deepseek_v4_flash,7,3,10
+SCS (D),vllm_deepseek_v4_flash,8,4,10
+SCS (D),vllm_deepseek_v4_flash,9,4,10
+SCS (D),vllm_deepseek_v4_flash,10,2,10
+SCS (D),gpt_qwen3.5-397b-a17b,1,3,10
+SCS (D),gpt_qwen3.5-397b-a17b,2,6,10
+SCS (D),gpt_qwen3.5-397b-a17b,3,5,10
+SCS (D),gpt_qwen3.5-397b-a17b,4,4,10
+SCS (D),gpt_qwen3.5-397b-a17b,5,5,10
+SCS (D),gpt_qwen3.5-397b-a17b,6,6,10
+SCS (D),gpt_qwen3.5-397b-a17b,7,3,10
+SCS (D),gpt_qwen3.5-397b-a17b,8,7,10
+SCS (D),gpt_qwen3.5-397b-a17b,9,8,10
+SCS (D),gpt_qwen3.5-397b-a17b,10,5,10
+SCS (D),vllm_Qwen3_6_35B_A3B,1,4,10
+SCS (D),vllm_Qwen3_6_35B_A3B,2,3,10
+SCS (D),vllm_Qwen3_6_35B_A3B,3,6,10
+SCS (D),vllm_Qwen3_6_35B_A3B,4,3,10
+SCS (D),vllm_Qwen3_6_35B_A3B,5,4,10
+SCS (D),vllm_Qwen3_6_35B_A3B,6,6,10
+SCS (D),vllm_Qwen3_6_35B_A3B,7,6,10
+SCS (D),vllm_Qwen3_6_35B_A3B,8,4,10
+SCS (D),vllm_Qwen3_6_35B_A3B,9,5,10
+SCS (D),vllm_Qwen3_6_35B_A3B,10,3,10
+SCS (D),vllm_Qwen3_8_27B,1,6,10
+SCS (D),vllm_Qwen3_8_27B,2,6,10
+SCS (D),vllm_Qwen3_8_27B,3,6,10
+SCS (D),vllm_Qwen3_8_27B,4,7,10
+SCS (D),vllm_Qwen3_8_27B,5,7,10
+SCS (D),vllm_Qwen3_8_27B,6,2,10
+SCS (D),vllm_Qwen3_8_27B,7,3,10
+SCS (D),vllm_Qwen3_8_27B,8,5,10
+SCS (D),vllm_Qwen3_8_27B,9,2,10
+SCS (D),vllm_Qwen3_8_27B,10,2,10
+SCS (D),vllm_Mistral_4,1,3,10
+SCS (D),vllm_Mistral_4,2,3,10
+SCS (D),vllm_Mistral_4,3,4,10
+SCS (D),vllm_Mistral_4,4,5,10
+SCS (D),vllm_Mistral_4,5,5,10
+SCS (D),vllm_Mistral_4,6,4,10
+SCS (D),vllm_Mistral_4,7,4,10
+SCS (D),vllm_Mistral_4,8,6,10
+SCS (D),vllm_Mistral_4,9,6,10
+SCS (D),vllm_Mistral_4,10,7,10
+SCS (D),vllm_gpt_oss_120b,1,4,10
+SCS (D),vllm_gpt_oss_120b,2,7,10
+SCS (D),vllm_gpt_oss_120b,3,5,10
+SCS (D),vllm_gpt_oss_120b,4,3,10
+SCS (D),vllm_gpt_oss_120b,5,3,10
+SCS (D),vllm_gpt_oss_120b,6,3,10
+SCS (D),vllm_gpt_oss_120b,7,3,10
+SCS (D),vllm_gpt_oss_120b,8,4,10
+SCS (D),vllm_gpt_oss_120b,9,5,10
+SCS (D),vllm_gpt_oss_120b,10,2,10
+HNR (D),gpt_gpt-5.6-sol-ca,1,8,10
+HNR (D),gpt_gpt-5.6-sol-ca,2,4,10
+HNR (D),gpt_gpt-5.6-sol-ca,3,6,10
+HNR (D),gpt_gpt-5.6-sol-ca,4,7,10
+HNR (D),gpt_gpt-5.6-sol-ca,5,7,10
+HNR (D),gpt_gpt-5.6-sol-ca,6,3,10
+HNR (D),gpt_gpt-5.6-sol-ca,7,8,10
+HNR (D),gpt_gpt-5.6-sol-ca,8,6,10
+HNR (D),gpt_gpt-5.6-sol-ca,9,8,10
+HNR (D),gpt_gpt-5.6-sol-ca,10,8,10
+HNR (D),gpt_claude-sonnet-5,1,4,10
+HNR (D),gpt_claude-sonnet-5,2,2,10
+HNR (D),gpt_claude-sonnet-5,3,5,10
+HNR (D),gpt_claude-sonnet-5,4,5,10
+HNR (D),gpt_claude-sonnet-5,5,6,10
+HNR (D),gpt_claude-sonnet-5,6,2,10
+HNR (D),gpt_claude-sonnet-5,7,5,10
+HNR (D),gpt_claude-sonnet-5,8,2,10
+HNR (D),gpt_claude-sonnet-5,9,6,10
+HNR (D),gpt_claude-sonnet-5,10,3,10
+HNR (D),vllm_deepseek_v4_flash,1,7,10
+HNR (D),vllm_deepseek_v4_flash,2,7,10
+HNR (D),vllm_deepseek_v4_flash,3,5,10
+HNR (D),vllm_deepseek_v4_flash,4,7,10
+HNR (D),vllm_deepseek_v4_flash,5,6,10
+HNR (D),vllm_deepseek_v4_flash,6,7,10
+HNR (D),vllm_deepseek_v4_flash,7,7,10
+HNR (D),vllm_deepseek_v4_flash,8,6,10
+HNR (D),vllm_deepseek_v4_flash,9,6,10
+HNR (D),vllm_deepseek_v4_flash,10,7,10
+HNR (D),gpt_qwen3.5-397b-a17b,1,6,10
+HNR (D),gpt_qwen3.5-397b-a17b,2,3,10
+HNR (D),gpt_qwen3.5-397b-a17b,3,5,10
+HNR (D),gpt_qwen3.5-397b-a17b,4,6,10
+HNR (D),gpt_qwen3.5-397b-a17b,5,5,10
+HNR (D),gpt_qwen3.5-397b-a17b,6,2,10
+HNR (D),gpt_qwen3.5-397b-a17b,7,6,10
+HNR (D),gpt_qwen3.5-397b-a17b,8,1,10
+HNR (D),gpt_qwen3.5-397b-a17b,9,6,10
+HNR (D),gpt_qwen3.5-397b-a17b,10,3,10
+HNR (D),vllm_Qwen3_6_35B_A3B,1,6,10
+HNR (D),vllm_Qwen3_6_35B_A3B,2,3,10
+HNR (D),vllm_Qwen3_6_35B_A3B,3,5,10
+HNR (D),vllm_Qwen3_6_35B_A3B,4,5,10
+HNR (D),vllm_Qwen3_6_35B_A3B,5,8,10
+HNR (D),vllm_Qwen3_6_35B_A3B,6,2,10
+HNR (D),vllm_Qwen3_6_35B_A3B,7,6,10
+HNR (D),vllm_Qwen3_6_35B_A3B,8,2,10
+HNR (D),vllm_Qwen3_6_35B_A3B,9,5,10
+HNR (D),vllm_Qwen3_6_35B_A3B,10,3,10
+HNR (D),vllm_Qwen3_8_27B,1,9,10
+HNR (D),vllm_Qwen3_8_27B,2,5,10
+HNR (D),vllm_Qwen3_8_27B,3,8,10
+HNR (D),vllm_Qwen3_8_27B,4,5,10
+HNR (D),vllm_Qwen3_8_27B,5,4,10
+HNR (D),vllm_Qwen3_8_27B,6,7,10
+HNR (D),vllm_Qwen3_8_27B,7,3,10
+HNR (D),vllm_Qwen3_8_27B,8,6,10
+HNR (D),vllm_Qwen3_8_27B,9,5,10
+HNR (D),vllm_Qwen3_8_27B,10,6,10
+HNR (D),vllm_Mistral_4,1,4,10
+HNR (D),vllm_Mistral_4,2,1,10
+HNR (D),vllm_Mistral_4,3,4,10
+HNR (D),vllm_Mistral_4,4,5,10
+HNR (D),vllm_Mistral_4,5,3,10
+HNR (D),vllm_Mistral_4,6,4,10
+HNR (D),vllm_Mistral_4,7,8,10
+HNR (D),vllm_Mistral_4,8,2,10
+HNR (D),vllm_Mistral_4,9,5,10
+HNR (D),vllm_Mistral_4,10,5,10
+HNR (D),vllm_gpt_oss_120b,1,6,10
+HNR (D),vllm_gpt_oss_120b,2,2,10
+HNR (D),vllm_gpt_oss_120b,3,5,10
+HNR (D),vllm_gpt_oss_120b,4,6,10
+HNR (D),vllm_gpt_oss_120b,5,6,10
+HNR (D),vllm_gpt_oss_120b,6,2,10
+HNR (D),vllm_gpt_oss_120b,7,5,10
+HNR (D),vllm_gpt_oss_120b,8,2,10
+HNR (D),vllm_gpt_oss_120b,9,6,10
+HNR (D),vllm_gpt_oss_120b,10,3,10
+PC-MDE (O),gpt_gpt-5.6-sol-ca,1,0,10
+PC-MDE (O),gpt_gpt-5.6-sol-ca,2,0,10
+PC-MDE (O),gpt_gpt-5.6-sol-ca,3,0,10
+PC-MDE (O),gpt_gpt-5.6-sol-ca,4,1,10
+PC-MDE (O),gpt_gpt-5.6-sol-ca,5,0,10
+PC-MDE (O),gpt_gpt-5.6-sol-ca,6,0,10
+PC-MDE (O),gpt_gpt-5.6-sol-ca,7,0,10
+PC-MDE (O),gpt_gpt-5.6-sol-ca,8,0,10
+PC-MDE (O),gpt_gpt-5.6-sol-ca,9,0,10
+PC-MDE (O),gpt_gpt-5.6-sol-ca,10,0,10
+PC-MDE (O),gpt_claude-sonnet-5,1,1,10
+PC-MDE (O),gpt_claude-sonnet-5,2,0,10
+PC-MDE (O),gpt_claude-sonnet-5,3,0,10
+PC-MDE (O),gpt_claude-sonnet-5,4,0,10
+PC-MDE (O),gpt_claude-sonnet-5,5,0,10
+PC-MDE (O),gpt_claude-sonnet-5,6,0,10
+PC-MDE (O),gpt_claude-sonnet-5,7,0,10
+PC-MDE (O),gpt_claude-sonnet-5,8,0,10
+PC-MDE (O),gpt_claude-sonnet-5,9,0,10
+PC-MDE (O),gpt_claude-sonnet-5,10,0,10
+PC-MDE (O),vllm_deepseek_v4_flash,1,1,10
+PC-MDE (O),vllm_deepseek_v4_flash,2,0,10
+PC-MDE (O),vllm_deepseek_v4_flash,3,1,10
+PC-MDE (O),vllm_deepseek_v4_flash,4,1,10
+PC-MDE (O),vllm_deepseek_v4_flash,5,0,10
+PC-MDE (O),vllm_deepseek_v4_flash,6,0,10
+PC-MDE (O),vllm_deepseek_v4_flash,7,1,10
+PC-MDE (O),vllm_deepseek_v4_flash,8,0,10
+PC-MDE (O),vllm_deepseek_v4_flash,9,0,10
+PC-MDE (O),vllm_deepseek_v4_flash,10,0,10
+PC-MDE (O),gpt_qwen3.5-397b-a17b,1,0,10
+PC-MDE (O),gpt_qwen3.5-397b-a17b,2,0,10
+PC-MDE (O),gpt_qwen3.5-397b-a17b,3,1,10
+PC-MDE (O),gpt_qwen3.5-397b-a17b,4,0,10
+PC-MDE (O),gpt_qwen3.5-397b-a17b,5,0,10
+PC-MDE (O),gpt_qwen3.5-397b-a17b,6,0,10
+PC-MDE (O),gpt_qwen3.5-397b-a17b,7,0,10
+PC-MDE (O),gpt_qwen3.5-397b-a17b,8,0,10
+PC-MDE (O),gpt_qwen3.5-397b-a17b,9,0,10
+PC-MDE (O),gpt_qwen3.5-397b-a17b,10,0,10
+PC-MDE (O),vllm_Qwen3_6_35B_A3B,1,0,10
+PC-MDE (O),vllm_Qwen3_6_35B_A3B,2,0,10
+PC-MDE (O),vllm_Qwen3_6_35B_A3B,3,0,10
+PC-MDE (O),vllm_Qwen3_6_35B_A3B,4,0,10
+PC-MDE (O),vllm_Qwen3_6_35B_A3B,5,0,10
+PC-MDE (O),vllm_Qwen3_6_35B_A3B,6,0,10
+PC-MDE (O),vllm_Qwen3_6_35B_A3B,7,0,10
+PC-MDE (O),vllm_Qwen3_6_35B_A3B,8,0,10
+PC-MDE (O),vllm_Qwen3_6_35B_A3B,9,0,10
+PC-MDE (O),vllm_Qwen3_6_35B_A3B,10,0,10
+PC-MDE (O),vllm_Qwen3_8_27B,1,0,10
+PC-MDE (O),vllm_Qwen3_8_27B,2,0,10
+PC-MDE (O),vllm_Qwen3_8_27B,3,0,10
+PC-MDE (O),vllm_Qwen3_8_27B,4,0,10
+PC-MDE (O),vllm_Qwen3_8_27B,5,0,10
+PC-MDE (O),vllm_Qwen3_8_27B,6,0,10
+PC-MDE (O),vllm_Qwen3_8_27B,7,0,10
+PC-MDE (O),vllm_Qwen3_8_27B,8,0,10
+PC-MDE (O),vllm_Qwen3_8_27B,9,0,10
+PC-MDE (O),vllm_Qwen3_8_27B,10,0,10
+PC-MDE (O),vllm_Mistral_4,1,0,10
+PC-MDE (O),vllm_Mistral_4,2,0,10
+PC-MDE (O),vllm_Mistral_4,3,0,10
+PC-MDE (O),vllm_Mistral_4,4,0,10
+PC-MDE (O),vllm_Mistral_4,5,0,10
+PC-MDE (O),vllm_Mistral_4,6,0,10
+PC-MDE (O),vllm_Mistral_4,7,0,10
+PC-MDE (O),vllm_Mistral_4,8,0,10
+PC-MDE (O),vllm_Mistral_4,9,0,10
+PC-MDE (O),vllm_Mistral_4,10,0,10
+PC-MDE (O),vllm_gpt_oss_120b,1,0,10
+PC-MDE (O),vllm_gpt_oss_120b,2,0,10
+PC-MDE (O),vllm_gpt_oss_120b,3,0,10
+PC-MDE (O),vllm_gpt_oss_120b,4,0,10
+PC-MDE (O),vllm_gpt_oss_120b,5,0,10
+PC-MDE (O),vllm_gpt_oss_120b,6,0,10
+PC-MDE (O),vllm_gpt_oss_120b,7,0,10
+PC-MDE (O),vllm_gpt_oss_120b,8,0,10
+PC-MDE (O),vllm_gpt_oss_120b,9,0,10
+PC-MDE (O),vllm_gpt_oss_120b,10,0,10
+SCS (O),gpt_gpt-5.6-sol-ca,1,7,10
+SCS (O),gpt_gpt-5.6-sol-ca,2,9,10
+SCS (O),gpt_gpt-5.6-sol-ca,3,5,10
+SCS (O),gpt_gpt-5.6-sol-ca,4,6,10
+SCS (O),gpt_gpt-5.6-sol-ca,5,2,10
+SCS (O),gpt_gpt-5.6-sol-ca,6,4,10
+SCS (O),gpt_gpt-5.6-sol-ca,7,3,10
+SCS (O),gpt_gpt-5.6-sol-ca,8,2,10
+SCS (O),gpt_gpt-5.6-sol-ca,9,0,10
+SCS (O),gpt_gpt-5.6-sol-ca,10,0,10
+SCS (O),gpt_claude-sonnet-5,1,2,10
+SCS (O),gpt_claude-sonnet-5,2,0,10
+SCS (O),gpt_claude-sonnet-5,3,1,10
+SCS (O),gpt_claude-sonnet-5,4,1,10
+SCS (O),gpt_claude-sonnet-5,5,0,10
+SCS (O),gpt_claude-sonnet-5,6,0,10
+SCS (O),gpt_claude-sonnet-5,7,0,10
+SCS (O),gpt_claude-sonnet-5,8,0,10
+SCS (O),gpt_claude-sonnet-5,9,0,10
+SCS (O),gpt_claude-sonnet-5,10,0,10
+SCS (O),vllm_deepseek_v4_flash,1,4,10
+SCS (O),vllm_deepseek_v4_flash,2,3,10
+SCS (O),vllm_deepseek_v4_flash,3,3,10
+SCS (O),vllm_deepseek_v4_flash,4,1,10
+SCS (O),vllm_deepseek_v4_flash,5,2,10
+SCS (O),vllm_deepseek_v4_flash,6,1,10
+SCS (O),vllm_deepseek_v4_flash,7,0,10
+SCS (O),vllm_deepseek_v4_flash,8,1,10
+SCS (O),vllm_deepseek_v4_flash,9,0,10
+SCS (O),vllm_deepseek_v4_flash,10,0,10
+SCS (O),gpt_qwen3.5-397b-a17b,1,2,10
+SCS (O),gpt_qwen3.5-397b-a17b,2,2,10
+SCS (O),gpt_qwen3.5-397b-a17b,3,2,10
+SCS (O),gpt_qwen3.5-397b-a17b,4,0,10
+SCS (O),gpt_qwen3.5-397b-a17b,5,0,10
+SCS (O),gpt_qwen3.5-397b-a17b,6,0,10
+SCS (O),gpt_qwen3.5-397b-a17b,7,0,10
+SCS (O),gpt_qwen3.5-397b-a17b,8,0,10
+SCS (O),gpt_qwen3.5-397b-a17b,9,0,10
+SCS (O),gpt_qwen3.5-397b-a17b,10,0,10
+SCS (O),vllm_Qwen3_6_35B_A3B,1,3,10
+SCS (O),vllm_Qwen3_6_35B_A3B,2,3,10
+SCS (O),vllm_Qwen3_6_35B_A3B,3,2,10
+SCS (O),vllm_Qwen3_6_35B_A3B,4,0,10
+SCS (O),vllm_Qwen3_6_35B_A3B,5,0,10
+SCS (O),vllm_Qwen3_6_35B_A3B,6,0,10
+SCS (O),vllm_Qwen3_6_35B_A3B,7,0,10
+SCS (O),vllm_Qwen3_6_35B_A3B,8,0,10
+SCS (O),vllm_Qwen3_6_35B_A3B,9,0,10
+SCS (O),vllm_Qwen3_6_35B_A3B,10,0,10
+SCS (O),vllm_Qwen3_8_27B,1,8,10
+SCS (O),vllm_Qwen3_8_27B,2,4,10
+SCS (O),vllm_Qwen3_8_27B,3,0,10
+SCS (O),vllm_Qwen3_8_27B,4,0,10
+SCS (O),vllm_Qwen3_8_27B,5,0,10
+SCS (O),vllm_Qwen3_8_27B,6,0,10
+SCS (O),vllm_Qwen3_8_27B,7,0,10
+SCS (O),vllm_Qwen3_8_27B,8,1,10
+SCS (O),vllm_Qwen3_8_27B,9,0,10
+SCS (O),vllm_Qwen3_8_27B,10,0,10
+SCS (O),vllm_Mistral_4,1,2,10
+SCS (O),vllm_Mistral_4,2,0,10
+SCS (O),vllm_Mistral_4,3,0,10
+SCS (O),vllm_Mistral_4,4,1,10
+SCS (O),vllm_Mistral_4,5,0,10
+SCS (O),vllm_Mistral_4,6,0,10
+SCS (O),vllm_Mistral_4,7,0,10
+SCS (O),vllm_Mistral_4,8,0,10
+SCS (O),vllm_Mistral_4,9,0,10
+SCS (O),vllm_Mistral_4,10,0,10
+SCS (O),vllm_gpt_oss_120b,1,3,10
+SCS (O),vllm_gpt_oss_120b,2,2,10
+SCS (O),vllm_gpt_oss_120b,3,0,10
+SCS (O),vllm_gpt_oss_120b,4,0,10
+SCS (O),vllm_gpt_oss_120b,5,0,10
+SCS (O),vllm_gpt_oss_120b,6,0,10
+SCS (O),vllm_gpt_oss_120b,7,0,10
+SCS (O),vllm_gpt_oss_120b,8,0,10
+SCS (O),vllm_gpt_oss_120b,9,0,10
+SCS (O),vllm_gpt_oss_120b,10,0,10
+PRA-CC,gpt_gpt-5.6-sol-ca,1,2,10
+PRA-CC,gpt_gpt-5.6-sol-ca,2,3,10
+PRA-CC,gpt_gpt-5.6-sol-ca,3,1,10
+PRA-CC,gpt_gpt-5.6-sol-ca,4,3,10
+PRA-CC,gpt_gpt-5.6-sol-ca,5,0,10
+PRA-CC,gpt_gpt-5.6-sol-ca,6,0,10
+PRA-CC,gpt_gpt-5.6-sol-ca,7,0,10
+PRA-CC,gpt_gpt-5.6-sol-ca,8,1,10
+PRA-CC,gpt_gpt-5.6-sol-ca,9,0,10
+PRA-CC,gpt_gpt-5.6-sol-ca,10,0,10
+PRA-CC,gpt_claude-sonnet-5,1,2,10
+PRA-CC,gpt_claude-sonnet-5,2,3,10
+PRA-CC,gpt_claude-sonnet-5,3,0,10
+PRA-CC,gpt_claude-sonnet-5,4,2,10
+PRA-CC,gpt_claude-sonnet-5,5,0,10
+PRA-CC,gpt_claude-sonnet-5,6,0,10
+PRA-CC,gpt_claude-sonnet-5,7,0,10
+PRA-CC,gpt_claude-sonnet-5,8,0,10
+PRA-CC,gpt_claude-sonnet-5,9,0,10
+PRA-CC,gpt_claude-sonnet-5,10,0,10
+PRA-CC,vllm_deepseek_v4_flash,1,1,10
+PRA-CC,vllm_deepseek_v4_flash,2,4,10
+PRA-CC,vllm_deepseek_v4_flash,3,2,10
+PRA-CC,vllm_deepseek_v4_flash,4,3,10
+PRA-CC,vllm_deepseek_v4_flash,5,1,10
+PRA-CC,vllm_deepseek_v4_flash,6,0,10
+PRA-CC,vllm_deepseek_v4_flash,7,0,10
+PRA-CC,vllm_deepseek_v4_flash,8,1,10
+PRA-CC,vllm_deepseek_v4_flash,9,1,10
+PRA-CC,vllm_deepseek_v4_flash,10,1,10
+PRA-CC,gpt_qwen3.5-397b-a17b,1,0,10
+PRA-CC,gpt_qwen3.5-397b-a17b,2,0,10
+PRA-CC,gpt_qwen3.5-397b-a17b,3,0,10
+PRA-CC,gpt_qwen3.5-397b-a17b,4,2,10
+PRA-CC,gpt_qwen3.5-397b-a17b,5,0,10
+PRA-CC,gpt_qwen3.5-397b-a17b,6,0,10
+PRA-CC,gpt_qwen3.5-397b-a17b,7,0,10
+PRA-CC,gpt_qwen3.5-397b-a17b,8,1,10
+PRA-CC,gpt_qwen3.5-397b-a17b,9,0,10
+PRA-CC,gpt_qwen3.5-397b-a17b,10,0,10
+PRA-CC,vllm_Qwen3_6_35B_A3B,1,2,10
+PRA-CC,vllm_Qwen3_6_35B_A3B,2,0,10
+PRA-CC,vllm_Qwen3_6_35B_A3B,3,0,10
+PRA-CC,vllm_Qwen3_6_35B_A3B,4,1,10
+PRA-CC,vllm_Qwen3_6_35B_A3B,5,0,10
+PRA-CC,vllm_Qwen3_6_35B_A3B,6,0,10
+PRA-CC,vllm_Qwen3_6_35B_A3B,7,0,10
+PRA-CC,vllm_Qwen3_6_35B_A3B,8,0,10
+PRA-CC,vllm_Qwen3_6_35B_A3B,9,1,10
+PRA-CC,vllm_Qwen3_6_35B_A3B,10,0,10
+PRA-CC,vllm_Qwen3_8_27B,1,1,10
+PRA-CC,vllm_Qwen3_8_27B,2,3,10
+PRA-CC,vllm_Qwen3_8_27B,3,1,10
+PRA-CC,vllm_Qwen3_8_27B,4,3,10
+PRA-CC,vllm_Qwen3_8_27B,5,0,10
+PRA-CC,vllm_Qwen3_8_27B,6,1,10
+PRA-CC,vllm_Qwen3_8_27B,7,0,10
+PRA-CC,vllm_Qwen3_8_27B,8,1,10
+PRA-CC,vllm_Qwen3_8_27B,9,0,10
+PRA-CC,vllm_Qwen3_8_27B,10,0,10
+PRA-CC,vllm_Mistral_4,1,0,10
+PRA-CC,vllm_Mistral_4,2,0,10
+PRA-CC,vllm_Mistral_4,3,0,10
+PRA-CC,vllm_Mistral_4,4,0,10
+PRA-CC,vllm_Mistral_4,5,0,10
+PRA-CC,vllm_Mistral_4,6,0,10
+PRA-CC,vllm_Mistral_4,7,0,10
+PRA-CC,vllm_Mistral_4,8,0,10
+PRA-CC,vllm_Mistral_4,9,0,10
+PRA-CC,vllm_Mistral_4,10,0,10
+PRA-CC,vllm_gpt_oss_120b,1,2,10
+PRA-CC,vllm_gpt_oss_120b,2,1,10
+PRA-CC,vllm_gpt_oss_120b,3,0,10
+PRA-CC,vllm_gpt_oss_120b,4,0,10
+PRA-CC,vllm_gpt_oss_120b,5,0,10
+PRA-CC,vllm_gpt_oss_120b,6,0,10
+PRA-CC,vllm_gpt_oss_120b,7,0,10
+PRA-CC,vllm_gpt_oss_120b,8,0,10
+PRA-CC,vllm_gpt_oss_120b,9,0,10
+PRA-CC,vllm_gpt_oss_120b,10,0,10
