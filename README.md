@@ -1,4 +1,6 @@
-# 医疗 NP 问题 LLM Benchmark
+# clinical-decision-complexity-benchmark
+
+医疗 NP 问题 LLM Benchmark
 
 本地整理的公开版本，包含医疗问题实例生成、模型调用、验证和最终图表绘制代码。源项目的原始数据与实验结果未包含在此目录。`fuction` 保留原有拼写。
 
