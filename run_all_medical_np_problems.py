@@ -503,7 +503,7 @@ def main():
     parser.add_argument("--problems", type=str, nargs="+", default=None,
                        help="指定要运行的问题名称（可选）。如果不指定，默认运行所有问题。"
                        "可用缩写：" + ", ".join(task.abbreviation for task in TASKS) +
-                       "；包含空格的名称须用引号括起来，也支持旧名称。")
+                       "；包含空格的名称须用引号括起来。")
     parser.add_argument("--skip-generate", action="store_true", default=False,
                        help="跳过问题实例生成，直接从已有的实例文件加载。适用于只换模型测试的场景。")
     parser.add_argument("--generate-only", action="store_true", default=False,

@@ -1,8 +1,4 @@
-"""Canonical benchmark task names and their historical storage identifiers.
-
-Keep legacy names stable in saved paths and result files so earlier analyses
-and supplied plot data remain usable. Abbreviations are the public task names.
-"""
+"""Benchmark task abbreviations, titles, complexity classes, and internal identifiers."""
 from dataclasses import dataclass
 
 
@@ -32,7 +28,7 @@ _BY_NAME = {name.casefold(): task for task in TASKS
 
 
 def resolve_task(name: str) -> Task:
-    """Resolve a task abbreviation or historical name; fail for unknown names."""
+    """Resolve a task identifier; fail for unknown names."""
     try:
         return _BY_NAME[name.strip().casefold()]
     except KeyError:
@@ -40,5 +36,5 @@ def resolve_task(name: str) -> Task:
 
 
 def legacy_task_name(name: str) -> str:
-    """Return the historical name used by benchmark storage and dispatch."""
+    """Return the internal identifier used by benchmark storage and dispatch."""
     return resolve_task(name).legacy_name

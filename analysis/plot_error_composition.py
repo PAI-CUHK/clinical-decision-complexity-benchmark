@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Error-composition figure for the medical NP benchmark (IEEE JBHI).
+Error-composition figure for the medical NP benchmark.
 
 Reads intermediate error counts. The plot has:
 

@@ -1,7 +1,7 @@
-"""Shared print style for IEEE JBHI figures.
+"""Shared print style for benchmark figures.
 
 Figures are drawn at their intended two-column width so labels are checked at
-the same scale at which a reader will see them. Captions belong in the paper.
+the same scale at which a reader will see them.
 """
 
 from contextlib import contextmanager
@@ -87,7 +87,7 @@ def apply_style():
 
 
 def add_subfigure_label(ax, label, y=-0.34):
-    """Place an IEEE-style subfigure label below an axes, centered at 8 pt."""
+    """Place a subfigure label below an axes, centered at 8 pt."""
     # Keep the label in axes coordinates so later subplots_adjust/tight layout
     # calls move it with its panel. A figure-level artist avoids occlusion by
     # neighboring axes while the axes transform keeps placement dynamic.

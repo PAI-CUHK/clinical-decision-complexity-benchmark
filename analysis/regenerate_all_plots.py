@@ -77,7 +77,7 @@ def main():
     args = parser.parse_args()
     data_dir, output_dir = args.data_dir.resolve(), args.output_dir.resolve()
     env = os.environ.copy()
-    env.setdefault("MPLCONFIGDIR", "/tmp/mpl-jbhi")
+    env.setdefault("MPLCONFIGDIR", "/tmp/mednp-mpl")
     interpreters = rendering_interpreters(args, env)
     for command in commands(data_dir, output_dir):
         version = "3.11.0" if command[0] == "analysis.plot_medical_semantics_wa" else "3.9.2"

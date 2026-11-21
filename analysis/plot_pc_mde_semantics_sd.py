@@ -1,4 +1,4 @@
-"""Render paper Figure 7 from aggregated distance-sensitive scores."""
+"""Render the PC-MDE comparison from aggregated distance-sensitive scores."""
 import argparse
 from pathlib import Path
 import numpy as np
